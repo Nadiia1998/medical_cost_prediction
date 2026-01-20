@@ -1,6 +1,6 @@
-# 🏥 Healthcare Cost Prediction with Explainable AI
+# Healthcare Cost Prediction with Explainable AI
 
-## 📌 Project Overview
+## Project Overview
 This project aims to predict **annual healthcare treatment costs** for patients based on
 demographic, lifestyle, medical, and insurance-related factors.
 
@@ -12,7 +12,7 @@ and explanations.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 - Build reliable regression models for healthcare cost estimation
 - Combine multiple models using an ensemble approach
 - Provide **human-readable explanations** for each prediction
@@ -20,7 +20,7 @@ and explanations.
 
 ---
 
-## 🧠 Models Used
+## Models Used
 - Random Forest Regressor
 - Gradient Boosting Regressor
 - XGBoost / LightGBM *(optional)*
@@ -28,7 +28,7 @@ and explanations.
 
 ---
 
-## 🧪 Explainability
+## Explainability
 The project uses **SHAP (SHapley Additive exPlanations)** to:
 - Identify the most influential features
 - Show positive cost drivers only
@@ -41,7 +41,7 @@ This makes predictions suitable for:
 
 ---
 
-## 🖥️ Web Application
+## Web Application
 The Gradio interface allows users to:
 - Enter patient data with sensible default values
 - Select binary medical conditions using Yes/No inputs
