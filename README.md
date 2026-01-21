@@ -41,5 +41,5 @@ The Gradio interface allows users to:
 - Select binary medical conditions using Yes/No inputs
 - Receive:
   - Predicted annual cost
-  - Top cost-driving factors in plain English
+  - Top cost-driving factors in plain 
 
