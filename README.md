@@ -25,7 +25,6 @@ and explanations.
 ## Models Used
 - Random Forest Regressor
 - Gradient Boosting Regressor
-- XGBoost / LightGBM *(optional)*
 - **Stacking Regressor** as the final ensemble
 
 ---
@@ -33,15 +32,8 @@ and explanations.
 ## Explainability
 The project uses **SHAP (SHapley Additive exPlanations)** to:
 - Identify the most influential features
-- Show positive cost drivers only
+- Show positive cost drivers
 - Express feature impact as a percentage of total predicted cost
-
-This makes predictions suitable for:
-- Healthcare analysts
-- Insurance professionals
-- Business stakeholders
-
----
 
 ## Web Application
 The Gradio interface allows users to:
