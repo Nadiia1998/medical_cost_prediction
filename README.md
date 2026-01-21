@@ -1,5 +1,7 @@
 # Healthcare Cost Prediction with Explainable AI
 
+[Try the model](https://nadiia199826-medical-cost-prediction.hf.space/?__theme=system&deep_link=CFMsjaEQdrE)
+
 ## Project Overview
 This project aims to predict **annual healthcare treatment costs** for patients based on
 demographic, lifestyle, medical, and insurance-related factors.
